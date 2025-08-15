@@ -56,7 +56,7 @@
 
 ### 🔨 Current Projects
 
-1. **[TCP Server in C++](https://github.com/sendlE1337/tcp-server)** - Learning socket programming
+1. **[TCP Server in C++](https://github.com/sendlE1337/chat_server.git)** - Learning socket programming
 2. **[JSON Parser in C++](https://github.com/sendlE1337/JSON_Parser)** - High-performance JSON parser with full RFC 8259 compliance
 
 ---
