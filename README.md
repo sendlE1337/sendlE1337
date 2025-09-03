@@ -9,23 +9,35 @@
   <span style="
     font-size: 4rem;
     font-weight: bold;
-    background: linear-gradient(90deg, #ff6b6b, #ee5a24, #feca57, #ff9ff3, #54a0ff, #5f27cd);
-    background-size: 300% 300%;
+    color: transparent;
+    background: linear-gradient(45deg, #ff00ff, #00ffff, #ffff00);
+    background-size: 200% 200%;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient-flow 3s ease infinite;
-    text-shadow: 0 0 20px rgba(255,255,255,0.3);
+    animation: neon-pulse 2s ease-in-out infinite;
+    text-shadow: 
+      0 0 5px #fff,
+      0 0 10px #fff,
+      0 0 15px #ff00ff,
+      0 0 20px #ff00ff;
+    padding: 15px;
+    border: 2px solid #ff00ff;
+    border-radius: 15px;
     display: inline-block;
-    padding: 10px;
   ">sendle1337</span>
 </h1>
 
 <style>
-  @keyframes gradient-flow {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
+  @keyframes neon-pulse {
+    0%, 100% { 
+      opacity: 1;
+      background-position: 0% 50%;
+    }
+    50% { 
+      opacity: 0.8;
+      background-position: 100% 50%;
+    }
   }
+</style>
 </style>
 ---
 
