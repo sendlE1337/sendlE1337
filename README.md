@@ -4,41 +4,7 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlieGU3MDh4Z2hoMWZiM2hsOGVjcXBrM3IwMTE0ZjlmcmtvYmYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" >
 </div>
----
-<h1 align="center">
-  <span style="
-    font-size: 4rem;
-    font-weight: bold;
-    color: transparent;
-    background: linear-gradient(45deg, #ff00ff, #00ffff, #ffff00);
-    background-size: 200% 200%;
-    -webkit-background-clip: text;
-    animation: neon-pulse 2s ease-in-out infinite;
-    text-shadow: 
-      0 0 5px #fff,
-      0 0 10px #fff,
-      0 0 15px #ff00ff,
-      0 0 20px #ff00ff;
-    padding: 15px;
-    border: 2px solid #ff00ff;
-    border-radius: 15px;
-    display: inline-block;
-  ">sendle1337</span>
-</h1>
 
-<style>
-  @keyframes neon-pulse {
-    0%, 100% { 
-      opacity: 1;
-      background-position: 0% 50%;
-    }
-    50% { 
-      opacity: 0.8;
-      background-position: 100% 50%;
-    }
-  }
-</style>
-</style>
 ---
 
 ### 🧑‍💻 About Me
