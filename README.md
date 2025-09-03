@@ -4,7 +4,29 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlieGU3MDh4Z2hoMWZiM2hsOGVjcXBrM3IwMTE0ZjlmcmtvYmYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" >
 </div>
+---
+<h1 align="center">
+  <span style="
+    font-size: 4rem;
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff6b6b, #ee5a24, #feca57, #ff9ff3, #54a0ff, #5f27cd);
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient-flow 3s ease infinite;
+    text-shadow: 0 0 20px rgba(255,255,255,0.3);
+    display: inline-block;
+    padding: 10px;
+  ">sendle1337</span>
+</h1>
 
+<style>
+  @keyframes gradient-flow {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 ---
 
 ### 🧑‍💻 About Me
