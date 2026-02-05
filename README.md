@@ -52,8 +52,9 @@
 
 ### 🔨 Current Projects
 
-1. **[TCP Server in C++](https://github.com/sendlE1337/chat_server.git)** - Learning socket programming
-2. **[JSON Parser in C++](https://github.com/sendlE1337/JSON_Parser)** - High-performance JSON parser with full RFC 8259 compliance
-3. **[Cache Service in C++](https://github.com/sendlE1337/KeyValue-store)** - High-performance library for in-memory key-value caching. 
+1. **[URL Shortener in Go](https://github.com/sendlE1337/url-shortener)** - A simple and extensible URL shortening service.
+2. **[TCP Server in C++](https://github.com/sendlE1337/chat_server.git)** - Learning socket programming.
+3. **[JSON Parser in C++](https://github.com/sendlE1337/JSON_Parser)** - High-performance JSON parser with full RFC 8259 compliance.
+4. **[Cache Service in C++](https://github.com/sendlE1337/KeyValue-store)** - High-performance library for in-memory key-value caching. 
 
 ---
