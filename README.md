@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sergey 👋</h1>
-<h3 align="center">Aspiring C++ Backend Developer</h3>
+<h3 align="center">Aspiring Go/C++ Backend Developer</h3>
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlieGU3MDh4Z2hoMWZiM2hsOGVjcXBrM3IwMTE0ZjlmcmtvYmYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" >
@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 📖 Currently mastering **C++**, **algorithms** and **network programming**
+- 📖 Currently mastering **C++,Go**, **algorithms** and **network programming**
 - 🌱 Learning **Linux system programming**
 - 📫 Reach me at: **XamerJKL@gmail.com**
 - 🌍 Languages: **Russian (native)**, **English (A2 - learning)**
